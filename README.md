@@ -1,4 +1,4 @@
-### Demonstration of Artificial Neural Networks with Genetic Algorithms
+### 3D Demonstration of Artificial Neural Networks with Genetic Algorithms
 
 ## Video demo
 
@@ -51,3 +51,8 @@ In order to work properly a small change has to be made in PyEvolve:
             1. self.internalPop.evaluate()
             2. self.internalPop.sort()
 
+## Art attributions
+
+(https://opengameart.org/content/spyke-trap-low-poly-updated)
+
+(https://opengameart.org/content/simple-3d-carrot)
