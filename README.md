@@ -1,4 +1,6 @@
-### 3D Demonstration of Artificial Neural Networks with Genetic Algorithms
+# 3D Demonstration of Artificial Neural Networks with Genetic Algorithms
+
+![](https://github.com/andres-zibula/project-images/blob/master/ann-ga-demo/ann-ga-demo.gif)
 
 ## Video demo
 
@@ -25,7 +27,7 @@ The weights of the net are generated using a Genetic Algorithm, the population i
 
 Each panda has a sight of range that is divided in 7 frustums, each frustum represents 2 inputs for the net, the first input is a normalized distance in the range of 0 and 1 between the panda and an object inside the frustum, and the second input depends on the type of object, -1 for a spike, 0 for nothing and 1 for carrot.
 
-## Installation prerequisites
+## Prerequisites
 
 The following libraries are required:
 
@@ -53,6 +55,6 @@ In order to work properly a small change has to be made in PyEvolve:
 
 ## Art attributions
 
-(https://opengameart.org/content/spyke-trap-low-poly-updated)
+https://opengameart.org/content/spyke-trap-low-poly-updated
 
-(https://opengameart.org/content/simple-3d-carrot)
+https://opengameart.org/content/simple-3d-carrot
