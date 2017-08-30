@@ -1,6 +1,6 @@
 # 3D Demonstration of Artificial Neural Networks with Genetic Algorithms
 
-![](https://github.com/andres-zibula/project-images/blob/master/ann-ga-demo/ann-ga-demo.gif)
+![](https://github.com/andres-zibula/project-images/blob/master/ann_ga_demo/ann_ga_demo.gif)
 
 ## Video demo
 
